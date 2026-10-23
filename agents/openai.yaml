@@ -1,0 +1,4 @@
+interface:
+  display_name: "落地页配图skill"
+  short_description: "将产品能力组织成清晰的落地页配图，统一色板、同帧对比与流程说明"
+  default_prompt: "使用 $落地页配图skill，根据需求整理这个画板的图片、英文 UI、icon 和流程关系。"
